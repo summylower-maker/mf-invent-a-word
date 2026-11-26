@@ -9,7 +9,7 @@ timestamps. Running it twice produces byte-identical output.
 
 import os
 
-ENTRY = "Ghostdraft (n.): a message typed out in full but never sent, left haunting the compose box."
+ENTRY = "Battxiety (n.): the quiet panic that rises as your phone battery falls below ten percent."
 
 
 def main():
